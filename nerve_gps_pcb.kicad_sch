@@ -3972,6 +3972,18 @@
 		)
 		(uuid "1a3464d9-5e23-44bb-91f7-a3362e7ccc6d")
 	)
+	(hierarchical_label "GPIO_2"
+		(shape input)
+		(at 38.1 33.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "24bc1600-bd74-45d0-a263-8b2ccbc95307")
+	)
 	(hierarchical_label "GPS_UART_RX"
 		(shape input)
 		(at 50.8 33.02 0)
@@ -4020,9 +4032,9 @@
 		)
 		(uuid "47d44ff8-a600-4b40-afed-32fa06b7ffe5")
 	)
-	(hierarchical_label "GPIO_2"
+	(hierarchical_label "GPIO_1"
 		(shape input)
-		(at 38.1 33.02 180)
+		(at 38.1 35.56 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4030,7 +4042,7 @@
 			)
 			(justify right)
 		)
-		(uuid "508f7e62-8b45-442a-81e0-4b2e3e36fbbf")
+		(uuid "5b861ca0-ad89-464d-b99c-b6a4c41e3a10")
 	)
 	(hierarchical_label "LED_PWM_{5V}"
 		(shape input)
@@ -4044,18 +4056,6 @@
 		)
 		(uuid "70c1c08a-5930-4df7-89b0-833ace10bc0a")
 	)
-	(hierarchical_label "GPIO_1"
-		(shape input)
-		(at 38.1 30.48 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "807e6171-5fb1-427f-9892-92ec169c3bc6")
-	)
 	(hierarchical_label "GPIO_2"
 		(shape input)
 		(at 34.29 99.06 180)
@@ -4067,6 +4067,18 @@
 			(justify right)
 		)
 		(uuid "996d8136-eb0d-4267-8628-233bfb08b12b")
+	)
+	(hierarchical_label "GPIO_3"
+		(shape input)
+		(at 38.1 30.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9a26ddae-004d-4683-baa4-f4088cb562e6")
 	)
 	(hierarchical_label "GPS_UART_RX"
 		(shape input)
@@ -4091,18 +4103,6 @@
 			(justify right)
 		)
 		(uuid "af32fd4e-8070-4bcd-990f-e43882aa7686")
-	)
-	(hierarchical_label "GPIO_3"
-		(shape input)
-		(at 38.1 35.56 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b860e4f4-6c2c-4eed-a0b1-c10df2ea01dc")
 	)
 	(hierarchical_label "GPS_UART_TX"
 		(shape input)
