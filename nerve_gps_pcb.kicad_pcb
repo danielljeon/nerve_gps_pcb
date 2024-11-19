@@ -1674,7 +1674,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D2"
-			(at 0 -3.5 360)
+			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "2130891b-9b5b-4661-8130-8ef1b287365f")
 			(effects
@@ -1685,7 +1685,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 0 4 360)
+			(at 0 4 0)
 			(layer "F.Fab")
 			(uuid "7800223b-2bba-4410-8cda-323f5c475187")
 			(effects
@@ -1911,7 +1911,7 @@
 			(uuid "faebb295-4ec8-4481-9894-c915508110a2")
 		)
 		(fp_text user "1"
-			(at -4.15 -1.6 360)
+			(at -4.15 -1.6 0)
 			(layer "F.SilkS")
 			(uuid "3c08d8b6-1b45-4ba7-bc31-cd107b4036db")
 			(effects
@@ -1922,7 +1922,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3d6009dd-6f0e-416a-b58e-3470f2ab6b19")
 			(effects
@@ -2419,7 +2419,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J2"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(uuid "2df9a8ee-c678-4d21-9ff9-9b591b6ade7d")
 			(effects
@@ -2430,7 +2430,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 0 4.87 360)
+			(at 0 4.87 0)
 			(layer "F.Fab")
 			(uuid "1ff6db30-bb58-4db0-9a36-b92396cdcb27")
 			(effects
@@ -3269,7 +3269,7 @@
 			(uuid "67a58c1d-ac08-4fcb-80c2-0e6efab603ca")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 5.08 360)
+			(at 0 5.08 0)
 			(layer "F.Fab")
 			(uuid "dbc8914e-5790-47d3-9de1-f8f4a4ee1319")
 			(effects
@@ -3918,7 +3918,7 @@
 		(descr "5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf")
 		(tags "LED RGB NeoPixel PLCC-4 5050")
 		(property "Reference" "D1"
-			(at 0 -3.5 360)
+			(at 0 -3.5 0)
 			(layer "F.SilkS")
 			(uuid "7f1f87c3-2e0a-48f5-85f0-0275f78d3e1b")
 			(effects
@@ -3929,7 +3929,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 0 4 360)
+			(at 0 4 0)
 			(layer "F.Fab")
 			(uuid "439054cb-e582-4b8d-a9b6-fb0060050aef")
 			(effects
@@ -4155,7 +4155,7 @@
 			(uuid "cb278b08-0ff0-4788-833c-0897ab429c53")
 		)
 		(fp_text user "1"
-			(at -4.15 -1.6 360)
+			(at -4.15 -1.6 0)
 			(layer "F.SilkS")
 			(uuid "f0b50eda-cdf1-47a7-b8a6-e8c67b33103b")
 			(effects
@@ -4166,7 +4166,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "cb38af11-00ac-4956-8dc0-c90220b52a3a")
 			(effects
@@ -4246,7 +4246,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 0 4 360)
+			(at 0 4 0)
 			(layer "F.Fab")
 			(uuid "24fcaa93-a728-490f-a40e-6d968ad7ab3e")
 			(effects
@@ -4472,7 +4472,7 @@
 			(uuid "44c5ec01-36a8-453b-a6a5-053b2a721aad")
 		)
 		(fp_text user "1"
-			(at -4.3 -2.4 360)
+			(at -4.3 -2.4 0)
 			(layer "F.SilkS")
 			(uuid "fd11e07f-fb65-4cf7-836f-5b4ac817b490")
 			(effects
@@ -4483,7 +4483,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "b14d88be-bdd1-4a2f-a857-d0c0fc08ea54")
 			(effects
@@ -4563,7 +4563,7 @@
 			)
 		)
 		(property "Value" "WS2812B"
-			(at 0 4 360)
+			(at 0 4 0)
 			(layer "F.Fab")
 			(uuid "513c61d9-de2a-4fcd-86d4-acca24b1418c")
 			(effects
@@ -4789,7 +4789,7 @@
 			(uuid "112d56c1-a0d3-43d1-acdb-98d7860ac9fb")
 		)
 		(fp_text user "1"
-			(at -4.3 -2.4 360)
+			(at -4.3 -2.4 0)
 			(layer "F.SilkS")
 			(uuid "b3a96f1f-acee-420c-a206-f1cd65499a14")
 			(effects
@@ -4800,7 +4800,7 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "3d6a5c17-ed8e-4e3e-9aba-9dcc4ae19a66")
 			(effects
@@ -6045,11 +6045,30 @@
 		(layer "Edge.Cuts")
 		(uuid "ed0af8c2-59c8-4af3-b4cd-3b77081103d2")
 	)
-	(gr_text_box "PCBWay 4-Layer Stackup:\n  - Thickness: 1.6MM\n  - Finished Outer Copper: 1OZ\n  - Inner Copper: 1OZ\n  - Inner layer Residual copper ratio: 70%"
-		(start 229.875 167)
-		(end 284.125 181)
+	(gr_text_box "PCBWay 4-Layer Stackup (Detailed):\n\nLayer 1 (Top Layer): Copper\n  - Thickness: 0.0175 mm (0.5 oz)\n\nDielectric 1: Prepreg (FR4 7628 RC46)\n  - Thickness: 0.1855 mm\n  - Dielectric Constant: 4.74\n  - Loss Tangent: 0.02\n\nLayer 2 (Inner Layer 1): Copper\n  - Thickness: 0.035 mm (1 oz)\n\nDielectric 2: Core (FR4)\n  - Thickness: 1.03 mm\n  - Dielectric constant: 4.6\n  - Loss tangent: 0.02\n\nLayer 3 (Inner Layer 2): Copper\n  - Thickness: 0.035 mm (1 oz)\n\nDielectric 3: Prepreg (FR4 7628 RC46)\n  - Thickness: 0.1855 mm\n  - Dielectric constant: 4.74\n  - Loss tangent: 0.02\n\nLayer 4 (Bottom Layer): Copper\n  - Thickness: 0.0175 mm (0.5 oz)\n\nOverall PCB Thickness: 1.6 mm"
+		(start 234.75 13)
+		(end 284 87)
 		(layer "Cmts.User")
-		(uuid "09bd3747-35af-420e-b833-25c2a37657fc")
+		(uuid "01ec9615-9eda-4b80-83ec-d2523a293719")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left top)
+		)
+		(border yes)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+	)
+	(gr_text_box "PCBWay 4-Layer Stackup:\n  - Thickness: 1.6 mm\n  - Finished outer copper: 1 oz\n  - Inner copper: 1 oz\n  - Inner layer residual copper ratio: 70%"
+		(start 231.75 167)
+		(end 284 181)
+		(layer "Cmts.User")
+		(uuid "4ae9764b-5020-43d0-bd74-7414708ff22a")
 		(effects
 			(font
 				(size 1.5 1.5)
