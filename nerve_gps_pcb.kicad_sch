@@ -3064,16 +3064,22 @@
 		(uuid "62cc547a-f8a7-4f9a-9dc9-d23850ccf916")
 	)
 	(junction
+		(at 151.13 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70eb7304-cb0e-42f6-ad8a-7cf761473602")
+	)
+	(junction
+		(at 163.83 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8c9b4bee-50ee-4123-a988-4688af5467b8")
+	)
+	(junction
 		(at 36.83 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a88ce159-559b-4177-8dcb-dcb187f831c8")
-	)
-	(junction
-		(at 148.59 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ad0de4a1-97ab-4dd4-9098-577bf9f1643b")
 	)
 	(junction
 		(at 101.6 59.69)
@@ -3104,12 +3110,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e2b4f36a-bca0-4522-89ff-9e346691c660")
-	)
-	(junction
-		(at 161.29 21.59)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ec1d256e-4ccd-4055-9983-894ace680d22")
 	)
 	(junction
 		(at 111.76 59.69)
@@ -3197,7 +3197,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 24.13) (xy 151.13 24.13)
+			(xy 151.13 26.67) (xy 153.67 26.67)
 		)
 		(stroke
 			(width 0)
@@ -3217,13 +3217,23 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 24.13) (xy 161.29 24.13)
+			(xy 161.29 26.67) (xy 163.83 26.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0f92af09-cfcc-449f-805a-37e5bcf03c20")
+	)
+	(wire
+		(pts
+			(xy 163.83 22.86) (xy 163.83 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15636078-4ee0-4cc5-a40a-ca49e9a6787e")
 	)
 	(wire
 		(pts
@@ -3267,7 +3277,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 21.59) (xy 161.29 24.13)
+			(xy 163.83 21.59) (xy 163.83 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3337,16 +3347,6 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 24.13) (xy 148.59 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3055a797-569f-4bc8-8148-dcc6c2142fb1")
-	)
-	(wire
-		(pts
 			(xy 31.75 29.21) (xy 38.1 29.21)
 		)
 		(stroke
@@ -3367,7 +3367,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 24.13) (xy 148.59 27.94)
+			(xy 151.13 26.67) (xy 151.13 29.21)
 		)
 		(stroke
 			(width 0)
@@ -3414,6 +3414,16 @@
 			(type default)
 		)
 		(uuid "4db6b391-eb91-470c-b6e7-4523215dfe16")
+	)
+	(wire
+		(pts
+			(xy 151.13 29.21) (xy 151.13 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f21a1e2-f4d6-49ff-83a8-a56731ad41df")
 	)
 	(wire
 		(pts
@@ -3584,6 +3594,16 @@
 			(type default)
 		)
 		(uuid "85ed87e2-03e3-458f-9abd-85100eaba117")
+	)
+	(wire
+		(pts
+			(xy 149.86 29.21) (xy 151.13 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "872ed936-06e7-42c2-85d4-6f79c7f5a6b4")
 	)
 	(wire
 		(pts
@@ -3867,7 +3887,7 @@
 	)
 	(wire
 		(pts
-			(xy 161.29 21.59) (xy 162.56 21.59)
+			(xy 163.83 22.86) (xy 165.1 22.86)
 		)
 		(stroke
 			(width 0)
@@ -3994,16 +4014,6 @@
 			(type default)
 		)
 		(uuid "fc3ad98c-b019-4f9a-b35c-96518b1f49b7")
-	)
-	(wire
-		(pts
-			(xy 161.29 20.32) (xy 161.29 21.59)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fd7a4e20-832b-402b-9553-d5c950a8bfaf")
 	)
 	(rectangle
 		(start 12.7 12.7)
@@ -4139,7 +4149,7 @@
 		)
 		(uuid "61e7cb9e-d1b6-4c70-bb98-613690f4d15b")
 	)
-	(text "3.3V Battery"
+	(text "3V Battery"
 		(exclude_from_sim no)
 		(at 143.764 36.068 0)
 		(effects
@@ -4177,17 +4187,6 @@
 			(justify left top)
 		)
 		(uuid "b6e2d912-d62c-48c2-bcfb-74a2d9d1a779")
-	)
-	(text "V_{battery}"
-		(exclude_from_sim no)
-		(at 146.812 30.988 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left top)
-		)
-		(uuid "bfd22b9e-4697-4333-b1c6-4e331b4b622b")
 	)
 	(text "Board-to-Board Connector"
 		(exclude_from_sim no)
@@ -4585,16 +4584,16 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 147.32 24.13 90)
+		(at 149.86 29.21 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0414b770-4bad-42a7-8d49-d4d50564ee9e")
+		(uuid "03706225-0c5a-4444-8b78-eb2b1819dc2d")
 		(property "Reference" "#FLG04"
-			(at 145.415 24.13 0)
+			(at 147.955 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4603,7 +4602,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 142.24 24.13 0)
+			(at 144.78 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4612,7 +4611,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 147.32 24.13 0)
+			(at 149.86 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4621,7 +4620,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 147.32 24.13 0)
+			(at 149.86 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4630,7 +4629,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 147.32 24.13 0)
+			(at 149.86 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4639,7 +4638,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "3c6c120d-a6b2-4a0d-9ea2-d1504ac4218e")
+			(uuid "cf5794f2-3270-4c27-ba2a-98245be2b22d")
 		)
 		(instances
 			(project "nerve_gps_pcb"
@@ -6048,7 +6047,7 @@
 	)
 	(symbol
 		(lib_id "common:harwin_s8411-45r_cr1220_battery")
-		(at 154.94 24.13 0)
+		(at 157.48 26.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6056,7 +6055,7 @@
 		(dnp no)
 		(uuid "436b32fc-dd30-413b-bedf-2674f85a56f4")
 		(property "Reference" "BT1"
-			(at 154.94 17.78 0)
+			(at 157.48 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6064,7 +6063,7 @@
 			)
 		)
 		(property "Value" "CR1220"
-			(at 154.94 20.32 0)
+			(at 157.48 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6072,7 +6071,7 @@
 			)
 		)
 		(property "Footprint" "common:harwin_s8411-45r_cr1220_battery"
-			(at 158.75 26.67 0)
+			(at 161.29 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6081,7 +6080,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.harwin.com/products/S8411-45R"
-			(at 190.5 31.623 0)
+			(at 193.04 34.163 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6090,7 +6089,7 @@
 			)
 		)
 		(property "Description" "Battery Holder (Open) Coin, 12.0mm 1 Cell SMD (SMT) Tab"
-			(at 190.5 27.813 0)
+			(at 193.04 30.353 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6099,7 +6098,7 @@
 			)
 		)
 		(property "Manufacturer" "Harwin"
-			(at 190.5 22.733 0)
+			(at 193.04 25.273 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6108,7 +6107,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "S8411-45R"
-			(at 190.5 22.733 0)
+			(at 193.04 25.273 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6117,7 +6116,7 @@
 			)
 		)
 		(property "Distributor" "DigiKey"
-			(at 190.5 22.733 0)
+			(at 193.04 25.273 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6126,7 +6125,7 @@
 			)
 		)
 		(property "Distributor Part Number" "952-1745-1-ND"
-			(at 190.5 31.623 0)
+			(at 193.04 34.163 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6135,7 +6134,7 @@
 			)
 		)
 		(property "Distributor Link" "https://www.digikey.ca/en/products/detail/harwin-inc/S8411-45R/3131055?s=N4IgTCBcDaIMoA4AsBGFBaJBWASiAugL5A"
-			(at 190.5 27.813 0)
+			(at 193.04 30.353 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6619,7 +6618,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 161.29 20.32 0)
+		(at 163.83 21.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6627,7 +6626,7 @@
 		(dnp no)
 		(uuid "5d153f18-48bf-4572-9d9b-80c134af23db")
 		(property "Reference" "#PWR03"
-			(at 161.29 24.13 0)
+			(at 163.83 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6635,8 +6634,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3VBATT"
-			(at 163.576 16.51 0)
+		(property "Value" "+3VBATT"
+			(at 163.83 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6644,7 +6643,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 161.29 20.32 0)
+			(at 163.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6653,7 +6652,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 161.29 20.32 0)
+			(at 163.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6662,7 +6661,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 161.29 20.32 0)
+			(at 163.83 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6777,8 +6776,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3VBATT"
-			(at 95.758 17.78 0)
+		(property "Value" "+3VBATT"
+			(at 96.52 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7695,7 +7694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+3.3VBATT"
+		(property "Value" "+3VBATT"
 			(at 19.05 36.83 0)
 			(effects
 				(font
@@ -7744,7 +7743,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 27.94 0)
+		(at 151.13 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7753,7 +7752,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb2a92d6-02f8-45d2-a1f7-915335a0d87b")
 		(property "Reference" "#PWR08"
-			(at 148.59 34.29 0)
+			(at 151.13 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7762,7 +7761,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 148.59 33.02 0)
+			(at 151.13 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7771,7 +7770,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 27.94 0)
+			(at 151.13 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7780,7 +7779,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 27.94 0)
+			(at 151.13 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7789,7 +7788,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 27.94 0)
+			(at 151.13 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7811,7 +7810,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 162.56 21.59 270)
+		(at 165.1 22.86 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7820,7 +7819,7 @@
 		(fields_autoplaced yes)
 		(uuid "bedc27a3-def9-4d05-b3f7-f5f4ecf65e9a")
 		(property "Reference" "#FLG02"
-			(at 164.465 21.59 0)
+			(at 167.005 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7829,7 +7828,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 167.64 21.59 0)
+			(at 170.18 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7838,7 +7837,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 162.56 21.59 0)
+			(at 165.1 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7847,7 +7846,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 21.59 0)
+			(at 165.1 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7856,7 +7855,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 162.56 21.59 0)
+			(at 165.1 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
