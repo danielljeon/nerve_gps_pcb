@@ -47,6 +47,6 @@ Connectors fixed by hardware (PCB traces or the connector itself).
 
 ### 3.1 v0.1.0-alpha
 
-- Pre-release 6-layer board variant.
+- Pre-release 4-layer board variant.
     - Short-term pre-release board bring-up/testing release.
 - Order date: 2025/01/13.
