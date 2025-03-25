@@ -15,6 +15,7 @@ the [nerve_pcb](https://github.com/danielljeon/nerve_pcb) project.
     * [2.1 Connectors](#21-connectors)
   * [3 Release Notes](#3-release-notes)
     * [3.1 v0.1.0-alpha](#31-v010-alpha)
+    * [3.2 v0.1.0](#32-v010)
 <!-- TOC -->
 
 </details>
@@ -50,3 +51,8 @@ Connectors fixed by hardware (PCB traces or the connector itself).
 - Pre-release 4-layer board variant.
     - Short-term pre-release board bring-up/testing release.
 - Order date: 2025/01/13.
+
+### 3.2 v0.1.0
+
+- Minor changes from the previous `v0.1.0-alpha` pre-release version.
+    - Fixed the Double-inverted UART connection issue.
