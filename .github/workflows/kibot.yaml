@@ -74,7 +74,7 @@ jobs:
           submodules: true
 
       - name: Run DRC
-        uses: INTI-CMNB/KiBot@v2_k8
+        uses: INTI-CMNB/KiBot@v2_k9
         with:
           config: config.kibot.yaml  # Required - kibot config file.
           # schema: kicad_project_name.kicad_sch  # Optional - schematic file.
