@@ -5,6 +5,8 @@
 Production optimized GPS module board for
 the [nerve_pcb](https://github.com/danielljeon/nerve_pcb) project.
 
+---
+
 <details markdown="1">
   <summary>Table of Contents</summary>
 
