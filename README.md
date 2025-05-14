@@ -2,8 +2,7 @@
 
 ![kibot](https://github.com/danielljeon/nerve_gps_pcb/actions/workflows/kibot.yaml/badge.svg)
 
-Production optimized GPS module board for
-the [nerve_pcb](https://github.com/danielljeon/nerve_pcb) project.
+GPS module to [`nerve_pcb`](https://github.com/danielljeon/nerve_pcb).
 
 ---
 
