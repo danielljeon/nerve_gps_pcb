@@ -25,9 +25,9 @@ GPS module to [`nerve_pcb`](https://github.com/danielljeon/nerve_pcb).
 
 ## 1 Overview
 
-|                         Top                          |                           Bottom                           |
-|:----------------------------------------------------:|:----------------------------------------------------------:|
-| ![nerve_gps_pcb-top.png](docs/nerve_gps_pcb-top.png) | ![nerve_gps_pcb-bottom.png](docs/nerve_gps_pcb-bottom.png) |
+|                         Top                          |                           Bottom                           |                     v0.1.0-alpha                     |
+|:----------------------------------------------------:|:----------------------------------------------------------:|:----------------------------------------------------:|
+| ![nerve_gps_pcb-top.png](docs/nerve_gps_pcb-top.png) | ![nerve_gps_pcb-bottom.png](docs/nerve_gps_pcb-bottom.png) | ![v0-1-0-alpha_top.jpeg](docs/v0-1-0-alpha_top.jpeg) |
 
 ---
 
